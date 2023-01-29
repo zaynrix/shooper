@@ -13,7 +13,7 @@
 
 # APK
   </p>
-<p align="center">
+<p align="left">
 <a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
 
   
