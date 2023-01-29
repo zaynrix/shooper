@@ -3,7 +3,6 @@
 
   </p>
 <p align="center">
-<a href="https://www.figma.com/file/pgZhGkpSWwrkUqMoEYfPq0/Mobile-shop-App-UI-Kit?node-id=214%3A2546" target="_blank"><img src="screenShots/click.png"></a>
 
 
   </p>
@@ -15,6 +14,7 @@
   </p>
 <p align="center">
 <a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png"></a>
+<a href="https://www.figma.com/file/pgZhGkpSWwrkUqMoEYfPq0/Mobile-shop-App-UI-Kit?node-id=214%3A2546" target="_blank"><img src="screenShots/click.png"></a>
 
   
   </p>
