@@ -20,6 +20,7 @@ https://www.figma.com/file/pgZhGkpSWwrkUqMoEYfPq0/Mobile-shop-App-UI-Kit?node-id
 + DIO,
 + INTERCEPTORS,
 + OFFLINE,
++ 
 
 + ONBOARDING,
 + REGISTRATION,
