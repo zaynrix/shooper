@@ -12,32 +12,6 @@ https://www.figma.com/file/pgZhGkpSWwrkUqMoEYfPq0/Mobile-shop-App-UI-Kit?node-id
   </p>
 
 
-## Features
-
-+ PROVIDER,
-+ GET_IT,
-+ RX_DART,
-+ DIO,
-+ INTERCEPTORS,
-+ OFFLINE,
-+ 
-
-+ ONBOARDING,
-+ REGISTRATION,
-+ HOME,
-+ SEARCH,
-+ NOFIFICATIONS,
-+ CATEGOREY,
-+ CART,
-+ EXEPLOR,
-+ FAVOURITE,
-+ PROFILE,
-+ CHANGE PASSWORD,
-+ SETTING,
-+ LANGUAGES,
-+ MY PURCHES,
-+ -TRAKING,
-
 
 
 
