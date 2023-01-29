@@ -1,7 +1,15 @@
 # Shop Mobile
 # Desing 
 
-https://www.figma.com/file/pgZhGkpSWwrkUqMoEYfPq0/Mobile-shop-App-UI-Kit?node-id=214%3A2546
+  </p>
+<p align="center">
+<a href="https://www.figma.com/file/pgZhGkpSWwrkUqMoEYfPq0/Mobile-shop-App-UI-Kit?node-id=214%3A2546" target="_blank"><img src="screenShots/click.png"></a>
+
+
+  </p>
+
+
+
 
 # APK
   </p>
